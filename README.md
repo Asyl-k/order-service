@@ -1,5 +1,9 @@
 # Order Service
 
+> **Lab / not maintained.** Это ранний учебный проект: репозиторий заархивирован и оставлен для истории. Актуальные проекты — в [профиле](https://github.com/Asyl-k).
+>
+> **Lab / not maintained.** This is an early learning project. The repository is archived and kept for history; see [my profile](https://github.com/Asyl-k) for maintained projects.
+
 Сервис заказов с конечным автоматом состояний и идемпотентным созданием через `Idempotency-Key`.
 
 ## Архитектурные решения
